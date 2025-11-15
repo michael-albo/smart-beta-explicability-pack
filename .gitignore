@@ -1,0 +1,6 @@
+# Exclure les répertoires suivants
+tests/
+input/
+venv/
+txt/
+.vscode
