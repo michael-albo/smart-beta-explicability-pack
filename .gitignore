@@ -3,4 +3,5 @@ tests/
 input/
 venv/
 txt/
+output/
 .vscode
