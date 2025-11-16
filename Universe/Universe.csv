@@ -1,0 +1,54 @@
+Ticker,Name,Category,Factor_bucket,Notes,Inception_date
+SPY,SPDR S&P 500 ETF Trust,US Large Blend,Core,Flagship S&P 500 tracker widely used as reference index.,1993-01-22
+IVV,iShares Core S&P 500 ETF,US Large Blend,Core,"S&P 500 low-cost, core large caps.",2000-05-15
+VOO,Vanguard S&P 500 ETF,US Large Blend,Core,Alternative Vanguard S&P 500 core.,2010-09-07
+VTI,Vanguard Total Stock Market ETF,US Total Market,Core,Broad US equity market including small and mid caps.,2000-11-13
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,US Total Market,Core,"Total market US, univers large pour beta core.",2004-01-20
+SCHB,Schwab U.S. Broad Market ETF,US Total Market,Core,"Broad US market, low cost, good core beta.",2009-11-03
+IWB,iShares Russell 1000 ETF,US Large Blend,Core,Large+mid-cap US exposure via Russell 1000.,2000-05-15
+RSP,Invesco S&P 500 Equal Weight ETF,US Large Blend,Core,"Equal-weight S&P 500, tilts to mid/small and value.",2003-04-24
+USMF,iShares Edge MSCI Multifactor USA ETF,US Large Blend,Core,"Multifactor US (value, quality, momentum, size) core sleeve.",2017-06-29
+JPUS,JP Morgan Diversified Return U.S. Equity ETF,US Large Blend,Core,"Multifactor US equity, diversified factor exposure.",2015-09-29
+OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,US Large Blend,Core,"Dynamic multifactor with regime-based tilts (value, momentum, quality, low vol).",2017-11-08
+DGRO,iShares Core Dividend Growth ETF,US Large Blend,Dividend,"Dividend growth tilt, quality and stability bias.",2014-06-10
+SCHD,Schwab U.S. Dividend Equity ETF,US Large Value,Dividend,"High dividend quality, cash-flow focus.",2011-10-20
+VIG,Vanguard Dividend Appreciation ETF,US Large Blend,Dividend,"Dividend growth, focuses on consistent dividend growers.",2006-04-21
+DVY,iShares Select Dividend ETF,US Large Value,Dividend,High dividend yield US equities.,2003-11-03
+HDV,iShares Core High Dividend ETF,US Large Value,Dividend,"High dividend quality, focus on sustainable payouts.",2011-03-29
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,US Large Blend,Dividend,"Dividend Aristocrats, long dividend growth track record.",2013-10-09
+SDY,SPDR S&P Dividend ETF,US Large Value,Dividend,High yield & consistent dividend payers.,2005-11-08
+RDVY,First Trust Rising Dividend Achievers ETF,US Large Blend,Dividend,Focus on dividend growth and rising payout profiles.,2014-01-06
+USMV,iShares MSCI USA Min Vol Factor ETF,US Large Blend,Low Vol,"Minimum volatility US, defensive low volatility profile.",2011-10-18
+SPLV,Invesco S&P 500 Low Volatility ETF,US Large Blend,Low Vol,S&P 500 low volatility subset.,2011-05-05
+XMLV,Invesco S&P MidCap Low Volatility ETF,US Mid-Cap Blend,Low Vol,Defensive low-volatility mid-caps.,2013-02-15
+EFAV,iShares MSCI EAFE Min Vol Factor ETF,Foreign Large Blend,Low Vol,"Developed ex-US min vol, diversifying low volatility.",2011-10-18
+LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,US Large Blend,Low Vol,"Large-cap low volatility, defensive tilt.",2013-02-20
+LVHD,Franklin U.S. Low Volatility High Dividend ETF,US Large Value,Low Vol / Dividend,Combines low volatility and high dividend tilt.,2015-12-28
+MTUM,iShares MSCI USA Momentum Factor ETF,US Large Growth,Momentum,Systematic momentum factor in US equities.,2013-04-16
+QMOM,Alpha Architect U.S. Quantitative Momentum ETF,US Large Growth,Momentum,Concentrated high-conviction momentum strategy.,2015-12-01
+SPMO,Invesco S&P 500 Momentum ETF,US Large Growth,Momentum,Momentum-tilted S&P 500 exposure.,2015-10-09
+MOM,AGFiQ U.S. Market Neutral Momentum Fund,Long/Short Equity,Momentum,Market-neutral momentum factor strategy.,2011-09-07
+QUAL,iShares MSCI USA Quality Factor ETF,US Large Blend,Quality,"Quality factor: high ROE, stable earnings, low leverage.",2013-07-16
+SPHQ,Invesco S&P 500 Quality ETF,US Large Blend,Quality,"Quality-tilted S&P 500, high ROE and stable earnings.",2005-12-06
+JQUA,JP Morgan US Quality Factor ETF,US Large Blend,Quality,US equity with explicit quality factor tilt.,2017-11-08
+SUSA,iShares MSCI USA ESG Select ETF,US Large Blend,Quality,"ESG quality tilted, often correlated with quality factor.",2005-01-24
+IWM,iShares Russell 2000 ETF,US Small Blend,Size,"Core small caps, liquid benchmark for US small size.",2000-05-22
+IJR,iShares Core S&P Small-Cap ETF,US Small Blend,Size,Core S&P small-cap exposure.,2000-05-22
+SCHA,Schwab U.S. Small-Cap ETF,US Small Blend,Size,Small-cap US equity exposure.,2009-11-03
+VO,Vanguard Mid-Cap ETF,US Mid-Cap Blend,Size,Core mid-cap exposure.,2001-11-12
+MDY,SPDR S&P MidCap 400 ETF Trust,US Mid-Cap Blend,Size,"S&P 400 mid-cap, benchmark for mid caps.",1995-05-04
+SIZE,iShares MSCI USA Size Factor ETF,US Large Blend,Size,Explicit size factor exposure tilted to smaller caps.,2013-04-16
+SMLF,iShares Edge MSCI Multifactor USA Small-Cap ETF,US Small Blend,Size,"Multifactor small caps including size, value, quality.",2015-04-28
+VTV,Vanguard Value ETF,US Large Value,Value-Growth,Large-cap value exposure.,2004-01-26
+IVE,iShares S&P 500 Value ETF,US Large Value,Value-Growth,S&P 500 value sleeve.,2000-05-22
+IWD,iShares Russell 1000 Value ETF,US Large Value,Value-Growth,Russell 1000 value sleeve.,2000-05-22
+VBR,Vanguard Small-Cap Value ETF,US Small Value,Value-Growth,Small-cap value exposure.,2004-01-26
+IJS,iShares S&P Small-Cap 600 Value ETF,US Small Value,Value-Growth,"Small-cap value, more quality tilt.",2000-07-24
+VLUE,iShares MSCI USA Value Factor ETF,US Large Value,Value-Growth,"Systematic value factor, rules-based.",2013-04-16
+VOOG,Vanguard S&P 500 Growth ETF,US Large Growth,Value-Growth,Large-cap growth exposure.,2010-09-07
+IWF,iShares Russell 1000 Growth ETF,US Large Growth,Value-Growth,Russell 1000 growth sleeve.,2000-05-22
+VUG,Vanguard Growth ETF,US Large Growth,Value-Growth,Large-cap growth tilt.,2004-01-26
+IWP,iShares Russell Mid-Cap Growth ETF,US Mid-Cap Growth,Value-Growth,Mid-cap growth exposure.,2001-07-17
+IWS,iShares Russell Mid-Cap Value ETF,US Mid-Cap Value,Value-Growth,Mid-cap value exposure.,2001-07-17
+IUSV,iShares Core S&P US Value ETF,US Large Value,Value-Growth,Core US value tilt across large and mid caps.,2000-07-24
+IUSG,iShares Core S&P US Growth ETF,US Large Growth,Value-Growth,Core US growth tilt across large and mid caps.,2000-07-24
