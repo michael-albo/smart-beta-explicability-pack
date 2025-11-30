@@ -4,8 +4,8 @@ IVV,305,0.9966747841144715,0.9966078334590582,-0.036359657332243014,0.9896280806
 Dep. Variable:            fund_excess   R-squared:                       0.997
 Model:                            OLS   Adj. R-squared:                  0.997
 Method:                 Least Squares   F-statistic:                     7835.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):               0.00
-Time:                        21:32:42   Log-Likelihood:                -12.749
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):               0.00
+Time:                        10:47:57   Log-Likelihood:                -12.749
 No. Observations:                 305   AIC:                             39.50
 Df Residuals:                     298   BIC:                             65.54
 Df Model:                           6                                         
@@ -34,8 +34,8 @@ IWB,304,0.9984881873996121,0.9984576457309174,-0.03908929380179353,1.00070322215
 Dep. Variable:            fund_excess   R-squared:                       0.998
 Model:                            OLS   Adj. R-squared:                  0.998
 Method:                 Least Squares   F-statistic:                 1.560e+04
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):               0.00
-Time:                        21:32:42   Log-Likelihood:                 101.30
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):               0.00
+Time:                        10:47:57   Log-Likelihood:                 101.30
 No. Observations:                 304   AIC:                            -188.6
 Df Residuals:                     297   BIC:                            -162.6
 Df Model:                           6                                         
@@ -64,8 +64,8 @@ IWF,304,0.9806265312546996,0.9802351480477238,0.05217052166185008,1.064105610408
 Dep. Variable:            fund_excess   R-squared:                       0.981
 Model:                            OLS   Adj. R-squared:                  0.980
 Method:                 Least Squares   F-statistic:                     2092.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.17e-239
-Time:                        21:32:42   Log-Likelihood:                -322.82
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.17e-239
+Time:                        10:47:57   Log-Likelihood:                -322.82
 No. Observations:                 304   AIC:                             659.6
 Df Residuals:                     297   BIC:                             685.7
 Df Model:                           6                                         
@@ -94,8 +94,8 @@ IJH,304,0.9458811164471221,0.9447878056682761,-0.08415022956335394,1.02476908183
 Dep. Variable:            fund_excess   R-squared:                       0.946
 Model:                            OLS   Adj. R-squared:                  0.945
 Method:                 Least Squares   F-statistic:                     984.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.04e-192
-Time:                        21:32:42   Log-Likelihood:                -487.10
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.04e-192
+Time:                        10:47:57   Log-Likelihood:                -487.10
 No. Observations:                 304   AIC:                             988.2
 Df Residuals:                     297   BIC:                             1014.
 Df Model:                           6                                         
@@ -124,8 +124,8 @@ IJR,304,0.9710155413087017,0.9704299966886755,-0.10752399507521374,0.99595083151
 Dep. Variable:            fund_excess   R-squared:                       0.971
 Model:                            OLS   Adj. R-squared:                  0.970
 Method:                 Least Squares   F-statistic:                     1343.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          6.86e-212
-Time:                        21:32:42   Log-Likelihood:                -420.35
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          6.86e-212
+Time:                        10:47:57   Log-Likelihood:                -420.35
 No. Observations:                 304   AIC:                             854.7
 Df Residuals:                     297   BIC:                             880.7
 Df Model:                           6                                         
@@ -154,8 +154,8 @@ IWM,304,0.9882957234493439,0.9880592734180176,-0.1248207910950387,1.013548282393
 Dep. Variable:            fund_excess   R-squared:                       0.988
 Model:                            OLS   Adj. R-squared:                  0.988
 Method:                 Least Squares   F-statistic:                     5892.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.88e-305
-Time:                        21:32:42   Log-Likelihood:                -290.71
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.88e-305
+Time:                        10:47:57   Log-Likelihood:                -290.71
 No. Observations:                 304   AIC:                             595.4
 Df Residuals:                     297   BIC:                             621.4
 Df Model:                           6                                         
@@ -184,8 +184,8 @@ IWD,304,0.9626342783337969,0.9618794152698332,-0.1466005148402496,0.931377302085
 Dep. Variable:            fund_excess   R-squared:                       0.963
 Model:                            OLS   Adj. R-squared:                  0.962
 Method:                 Least Squares   F-statistic:                     1136.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.61e-201
-Time:                        21:32:42   Log-Likelihood:                -381.01
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.61e-201
+Time:                        10:47:57   Log-Likelihood:                -381.01
 No. Observations:                 304   AIC:                             776.0
 Df Residuals:                     297   BIC:                             802.0
 Df Model:                           6                                         
@@ -214,8 +214,8 @@ IVW,304,0.9719343233250298,0.9713673399578587,-0.009685109731450307,1.0350869717
 Dep. Variable:            fund_excess   R-squared:                       0.972
 Model:                            OLS   Adj. R-squared:                  0.971
 Method:                 Least Squares   F-statistic:                     1401.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.53e-214
-Time:                        21:32:42   Log-Likelihood:                -354.57
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.53e-214
+Time:                        10:47:57   Log-Likelihood:                -354.57
 No. Observations:                 304   AIC:                             723.1
 Df Residuals:                     297   BIC:                             749.2
 Df Model:                           6                                         
@@ -244,8 +244,8 @@ IVE,304,0.9622965876072637,0.9615349025084206,-0.0983465073134131,0.937269098075
 Dep. Variable:            fund_excess   R-squared:                       0.962
 Model:                            OLS   Adj. R-squared:                  0.962
 Method:                 Least Squares   F-statistic:                     856.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.48e-184
-Time:                        21:32:42   Log-Likelihood:                -392.90
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.48e-184
+Time:                        10:47:57   Log-Likelihood:                -392.90
 No. Observations:                 304   AIC:                             799.8
 Df Residuals:                     297   BIC:                             825.8
 Df Model:                           6                                         
@@ -274,8 +274,8 @@ IWV,304,0.9984842805426027,0.9984536599475038,-0.0508448871068686,1.002018524525
 Dep. Variable:            fund_excess   R-squared:                       0.998
 Model:                            OLS   Adj. R-squared:                  0.998
 Method:                 Least Squares   F-statistic:                 1.540e+04
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):               0.00
-Time:                        21:32:42   Log-Likelihood:                 97.361
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):               0.00
+Time:                        10:47:57   Log-Likelihood:                 97.361
 No. Observations:                 304   AIC:                            -180.7
 Df Residuals:                     297   BIC:                            -154.7
 Df Model:                           6                                         
@@ -304,8 +304,8 @@ IUSG,302,0.9775588733902814,0.9771024436965243,0.0016167751332273016,1.061292464
 Dep. Variable:            fund_excess   R-squared:                       0.978
 Model:                            OLS   Adj. R-squared:                  0.977
 Method:                 Least Squares   F-statistic:                     1475.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.13e-216
-Time:                        21:32:42   Log-Likelihood:                -340.62
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.13e-216
+Time:                        10:47:57   Log-Likelihood:                -340.62
 No. Observations:                 302   AIC:                             695.2
 Df Residuals:                     295   BIC:                             721.2
 Df Model:                           6                                         
@@ -334,8 +334,8 @@ IUSV,302,0.9662342606997648,0.965547499900438,-0.08819197188004702,0.93542584445
 Dep. Variable:            fund_excess   R-squared:                       0.966
 Model:                            OLS   Adj. R-squared:                  0.966
 Method:                 Least Squares   F-statistic:                     908.8
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          5.92e-187
-Time:                        21:32:42   Log-Likelihood:                -366.37
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          5.92e-187
+Time:                        10:47:57   Log-Likelihood:                -366.37
 No. Observations:                 302   AIC:                             746.7
 Df Residuals:                     295   BIC:                             772.7
 Df Model:                           6                                         
@@ -364,8 +364,8 @@ IWO,302,0.9829961456484752,0.9826503045430204,-0.07037654438342265,1.06742954538
 Dep. Variable:            fund_excess   R-squared:                       0.983
 Model:                            OLS   Adj. R-squared:                  0.983
 Method:                 Least Squares   F-statistic:                     3274.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.36e-266
-Time:                        21:32:42   Log-Likelihood:                -366.93
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.36e-266
+Time:                        10:47:57   Log-Likelihood:                -366.93
 No. Observations:                 302   AIC:                             747.9
 Df Residuals:                     295   BIC:                             773.8
 Df Model:                           6                                         
@@ -394,8 +394,8 @@ IWN,302,0.9805807855646368,0.9801858184913752,-0.14350943760788146,0.96036578116
 Dep. Variable:            fund_excess   R-squared:                       0.981
 Model:                            OLS   Adj. R-squared:                  0.980
 Method:                 Least Squares   F-statistic:                     2597.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          5.27e-252
-Time:                        21:32:42   Log-Likelihood:                -359.49
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          5.27e-252
+Time:                        10:47:57   Log-Likelihood:                -359.49
 No. Observations:                 302   AIC:                             733.0
 Df Residuals:                     295   BIC:                             758.9
 Df Model:                           6                                         
@@ -424,8 +424,8 @@ IJK,302,0.9186675794273634,0.9170133607038522,-0.08611245607239673,1.05196102815
 Dep. Variable:            fund_excess   R-squared:                       0.919
 Model:                            OLS   Adj. R-squared:                  0.917
 Method:                 Least Squares   F-statistic:                     671.0
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.09e-168
-Time:                        21:32:42   Log-Likelihood:                -551.33
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.09e-168
+Time:                        10:47:57   Log-Likelihood:                -551.33
 No. Observations:                 302   AIC:                             1117.
 Df Residuals:                     295   BIC:                             1143.
 Df Model:                           6                                         
@@ -454,8 +454,8 @@ IJJ,302,0.9510559263018699,0.9500604536164842,-0.0668368617002561,1.001780360660
 Dep. Variable:            fund_excess   R-squared:                       0.951
 Model:                            OLS   Adj. R-squared:                  0.950
 Method:                 Least Squares   F-statistic:                     680.0
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.72e-169
-Time:                        21:32:42   Log-Likelihood:                -479.23
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.72e-169
+Time:                        10:47:57   Log-Likelihood:                -479.23
 No. Observations:                 302   AIC:                             972.5
 Df Residuals:                     295   BIC:                             998.4
 Df Model:                           6                                         
@@ -484,8 +484,8 @@ IJS,302,0.9723379995359818,0.9717753825773916,-0.11520045936714307,0.98535817803
 Dep. Variable:            fund_excess   R-squared:                       0.972
 Model:                            OLS   Adj. R-squared:                  0.972
 Method:                 Least Squares   F-statistic:                     1200.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          6.01e-204
-Time:                        21:32:42   Log-Likelihood:                -424.87
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          6.01e-204
+Time:                        10:47:57   Log-Likelihood:                -424.87
 No. Observations:                 302   AIC:                             863.7
 Df Residuals:                     295   BIC:                             889.7
 Df Model:                           6                                         
@@ -514,8 +514,8 @@ IJT,295,0.9629390415419798,0.9621669382407712,-0.06184497835372746,0.98045986141
 Dep. Variable:            fund_excess   R-squared:                       0.963
 Model:                            OLS   Adj. R-squared:                  0.962
 Method:                 Least Squares   F-statistic:                     960.6
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.51e-187
-Time:                        21:32:42   Log-Likelihood:                -433.00
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.51e-187
+Time:                        10:47:57   Log-Likelihood:                -433.00
 No. Observations:                 295   AIC:                             880.0
 Df Residuals:                     288   BIC:                             905.8
 Df Model:                           6                                         
@@ -544,8 +544,8 @@ OEF,299,0.9798922968154196,0.9794791248321748,-0.019636808482187892,0.9881036046
 Dep. Variable:            fund_excess   R-squared:                       0.980
 Model:                            OLS   Adj. R-squared:                  0.979
 Method:                 Least Squares   F-statistic:                     2399.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.85e-245
-Time:                        21:32:42   Log-Likelihood:                -282.67
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.85e-245
+Time:                        10:47:57   Log-Likelihood:                -282.67
 No. Observations:                 299   AIC:                             579.3
 Df Residuals:                     292   BIC:                             605.3
 Df Model:                           6                                         
@@ -574,8 +574,8 @@ IWR,290,0.9596489360416184,0.9587934364523948,-0.028649949840299366,1.0166915519
 Dep. Variable:            fund_excess   R-squared:                       0.960
 Model:                            OLS   Adj. R-squared:                  0.959
 Method:                 Least Squares   F-statistic:                     538.4
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.40e-151
-Time:                        21:32:42   Log-Likelihood:                -412.20
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.40e-151
+Time:                        10:47:57   Log-Likelihood:                -412.20
 No. Observations:                 290   AIC:                             838.4
 Df Residuals:                     283   BIC:                             864.1
 Df Model:                           6                                         
@@ -604,8 +604,8 @@ IWP,290,0.9383438805983986,0.9370366837206261,0.036596587020740354,1.06405914932
 Dep. Variable:            fund_excess   R-squared:                       0.938
 Model:                            OLS   Adj. R-squared:                  0.937
 Method:                 Least Squares   F-statistic:                     423.4
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.68e-138
-Time:                        21:32:42   Log-Likelihood:                -495.52
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.68e-138
+Time:                        10:47:57   Log-Likelihood:                -495.52
 No. Observations:                 290   AIC:                             1005.
 Df Residuals:                     283   BIC:                             1031.
 Df Model:                           6                                         
@@ -634,8 +634,8 @@ IWS,290,0.9531534653458227,0.9521602525969709,-0.07422381084045603,0.98698105045
 Dep. Variable:            fund_excess   R-squared:                       0.953
 Model:                            OLS   Adj. R-squared:                  0.952
 Method:                 Least Squares   F-statistic:                     404.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.33e-135
-Time:                        21:32:42   Log-Likelihood:                -433.42
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.33e-135
+Time:                        10:47:57   Log-Likelihood:                -433.42
 No. Observations:                 290   AIC:                             880.8
 Df Residuals:                     283   BIC:                             906.5
 Df Model:                           6                                         
@@ -664,8 +664,8 @@ DVY,262,0.8395788805556164,0.8358042659804544,-0.04898381294297904,0.77929972362
 Dep. Variable:            fund_excess   R-squared:                       0.840
 Model:                            OLS   Adj. R-squared:                  0.836
 Method:                 Least Squares   F-statistic:                     246.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          4.88e-103
-Time:                        21:32:42   Log-Likelihood:                -513.81
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          4.88e-103
+Time:                        10:47:57   Log-Likelihood:                -513.81
 No. Observations:                 262   AIC:                             1042.
 Df Residuals:                     255   BIC:                             1067.
 Df Model:                           6                                         
@@ -694,8 +694,8 @@ ITOT,260,0.9985266860798466,0.9984917458287758,-0.03871903495794479,0.9981301364
 Dep. Variable:            fund_excess   R-squared:                       0.999
 Model:                            OLS   Adj. R-squared:                  0.998
 Method:                 Least Squares   F-statistic:                 2.485e+04
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):               0.00
-Time:                        21:32:42   Log-Likelihood:                 97.309
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):               0.00
+Time:                        10:47:57   Log-Likelihood:                 97.309
 No. Observations:                 260   AIC:                            -180.6
 Df Residuals:                     253   BIC:                            -155.7
 Df Model:                           6                                         
@@ -724,8 +724,8 @@ IMCG,255,0.9247774677316978,0.9229575677574646,0.015937644583869794,1.0529709695
 Dep. Variable:            fund_excess   R-squared:                       0.925
 Model:                            OLS   Adj. R-squared:                  0.923
 Method:                 Least Squares   F-statistic:                     380.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          5.58e-122
-Time:                        21:32:42   Log-Likelihood:                -452.13
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          5.58e-122
+Time:                        10:47:57   Log-Likelihood:                -452.13
 No. Observations:                 255   AIC:                             918.3
 Df Residuals:                     248   BIC:                             943.0
 Df Model:                           6                                         
@@ -754,8 +754,8 @@ ILCG,255,0.9599548084391512,0.9589859731594532,-0.0385390985255206,1.09551845204
 Dep. Variable:            fund_excess   R-squared:                       0.960
 Model:                            OLS   Adj. R-squared:                  0.959
 Method:                 Least Squares   F-statistic:                     953.3
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.70e-168
-Time:                        21:32:42   Log-Likelihood:                -353.16
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.70e-168
+Time:                        10:47:57   Log-Likelihood:                -353.16
 No. Observations:                 255   AIC:                             720.3
 Df Residuals:                     248   BIC:                             745.1
 Df Model:                           6                                         
@@ -784,8 +784,8 @@ IMCB,255,0.9452526020963736,0.9439280682761246,-0.07623897589655695,1.0355217967
 Dep. Variable:            fund_excess   R-squared:                       0.945
 Model:                            OLS   Adj. R-squared:                  0.944
 Method:                 Least Squares   F-statistic:                     437.9
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          7.19e-129
-Time:                        21:32:42   Log-Likelihood:                -403.24
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          7.19e-129
+Time:                        10:47:57   Log-Likelihood:                -403.24
 No. Observations:                 255   AIC:                             820.5
 Df Residuals:                     248   BIC:                             845.3
 Df Model:                           6                                         
@@ -814,8 +814,8 @@ ILCB,255,0.9724318783486502,0.9717649076635368,-0.008302122408578902,0.976676834
 Dep. Variable:            fund_excess   R-squared:                       0.972
 Model:                            OLS   Adj. R-squared:                  0.972
 Method:                 Least Squares   F-statistic:                     1414.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.23e-188
-Time:                        21:32:42   Log-Likelihood:                -272.00
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.23e-188
+Time:                        10:47:57   Log-Likelihood:                -272.00
 No. Observations:                 255   AIC:                             558.0
 Df Residuals:                     248   BIC:                             582.8
 Df Model:                           6                                         
@@ -844,8 +844,8 @@ ILCV,255,0.928639124249607,0.9269126514491943,-0.12738376320618255,0.88766530963
 Dep. Variable:            fund_excess   R-squared:                       0.929
 Model:                            OLS   Adj. R-squared:                  0.927
 Method:                 Least Squares   F-statistic:                     530.1
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          2.45e-138
-Time:                        21:32:42   Log-Likelihood:                -387.72
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          2.45e-138
+Time:                        10:47:57   Log-Likelihood:                -387.72
 No. Observations:                 255   AIC:                             789.4
 Df Residuals:                     248   BIC:                             814.2
 Df Model:                           6                                         
@@ -874,8 +874,8 @@ IMCV,255,0.9556160415981794,0.9545422361529741,-0.05392089426168578,0.9642614619
 Dep. Variable:            fund_excess   R-squared:                       0.956
 Model:                            OLS   Adj. R-squared:                  0.955
 Method:                 Least Squares   F-statistic:                     573.3
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          2.95e-142
-Time:                        21:32:42   Log-Likelihood:                -381.33
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          2.95e-142
+Time:                        10:47:57   Log-Likelihood:                -381.33
 No. Observations:                 255   AIC:                             776.7
 Df Residuals:                     248   BIC:                             801.5
 Df Model:                           6                                         
@@ -904,8 +904,8 @@ ISCG,255,0.9671724640696867,0.9663782494907275,-0.04692963183574417,1.0337879345
 Dep. Variable:            fund_excess   R-squared:                       0.967
 Model:                            OLS   Adj. R-squared:                  0.966
 Method:                 Least Squares   F-statistic:                     874.3
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.05e-163
-Time:                        21:32:43   Log-Likelihood:                -369.92
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.05e-163
+Time:                        10:47:57   Log-Likelihood:                -369.92
 No. Observations:                 255   AIC:                             753.8
 Df Residuals:                     248   BIC:                             778.6
 Df Model:                           6                                         
@@ -934,8 +934,8 @@ ISCV,255,0.9726167856875937,0.9719542885671323,-0.10045748884873917,1.0059795050
 Dep. Variable:            fund_excess   R-squared:                       0.973
 Model:                            OLS   Adj. R-squared:                  0.972
 Method:                 Least Squares   F-statistic:                     1305.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          1.91e-184
-Time:                        21:32:43   Log-Likelihood:                -361.87
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          1.91e-184
+Time:                        10:47:57   Log-Likelihood:                -361.87
 No. Observations:                 255   AIC:                             737.7
 Df Residuals:                     248   BIC:                             762.5
 Df Model:                           6                                         
@@ -964,8 +964,8 @@ ISCB,255,0.976152882737913,0.9755759363525399,-0.1219097996547244,1.018974764458
 Dep. Variable:            fund_excess   R-squared:                       0.976
 Model:                            OLS   Adj. R-squared:                  0.976
 Method:                 Least Squares   F-statistic:                     1253.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          2.38e-182
-Time:                        21:32:43   Log-Likelihood:                -330.39
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          2.38e-182
+Time:                        10:47:57   Log-Likelihood:                -330.39
 No. Observations:                 255   AIC:                             674.8
 Df Residuals:                     248   BIC:                             699.6
 Df Model:                           6                                         
@@ -994,8 +994,8 @@ IWC,241,0.9753649847857843,0.9747333177290095,-0.05403378486145366,0.97440976136
 Dep. Variable:            fund_excess   R-squared:                       0.975
 Model:                            OLS   Adj. R-squared:                  0.975
 Method:                 Least Squares   F-statistic:                     1679.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.10e-189
-Time:                        21:32:43   Log-Likelihood:                -337.06
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.10e-189
+Time:                        10:47:57   Log-Likelihood:                -337.06
 No. Observations:                 241   AIC:                             688.1
 Df Residuals:                     234   BIC:                             712.5
 Df Model:                           6                                         
@@ -1024,8 +1024,8 @@ IWY,192,0.967266436271588,0.9662048071776936,0.08857531647745079,1.0641060019414
 Dep. Variable:            fund_excess   R-squared:                       0.967
 Model:                            OLS   Adj. R-squared:                  0.966
 Method:                 Least Squares   F-statistic:                     1198.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.83e-145
-Time:                        21:32:43   Log-Likelihood:                -236.21
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.83e-145
+Time:                        10:47:57   Log-Likelihood:                -236.21
 No. Observations:                 192   AIC:                             486.4
 Df Residuals:                     185   BIC:                             509.2
 Df Model:                           6                                         
@@ -1054,8 +1054,8 @@ IWX,192,0.9463555633156419,0.9446157437475006,-0.1138317444890849,0.887421763584
 Dep. Variable:            fund_excess   R-squared:                       0.946
 Model:                            OLS   Adj. R-squared:                  0.945
 Method:                 Least Squares   F-statistic:                     449.0
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          2.11e-107
-Time:                        21:32:43   Log-Likelihood:                -260.32
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          2.11e-107
+Time:                        10:47:57   Log-Likelihood:                -260.32
 No. Observations:                 192   AIC:                             534.6
 Df Residuals:                     185   BIC:                             557.4
 Df Model:                           6                                         
@@ -1084,8 +1084,8 @@ IWL,192,0.994600141177967,0.9944250106215767,-0.002431670818411752,0.99121701688
 Dep. Variable:            fund_excess   R-squared:                       0.995
 Model:                            OLS   Adj. R-squared:                  0.994
 Method:                 Least Squares   F-statistic:                     6497.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          3.22e-212
-Time:                        21:32:43   Log-Likelihood:                -43.505
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          3.22e-212
+Time:                        10:47:57   Log-Likelihood:                -43.505
 No. Observations:                 192   AIC:                             101.0
 Df Residuals:                     185   BIC:                             123.8
 Df Model:                           6                                         
@@ -1114,8 +1114,8 @@ EUSA,184,0.9680586174974403,0.96697585876854,-0.10900550681119486,0.978179583262
 Dep. Variable:            fund_excess   R-squared:                       0.968
 Model:                            OLS   Adj. R-squared:                  0.967
 Method:                 Least Squares   F-statistic:                     811.4
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):          6.56e-126
-Time:                        21:32:43   Log-Likelihood:                -221.12
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):          6.56e-126
+Time:                        10:47:57   Log-Likelihood:                -221.12
 No. Observations:                 184   AIC:                             456.2
 Df Residuals:                     177   BIC:                             478.7
 Df Model:                           6                                         
@@ -1144,8 +1144,8 @@ HDV,174,0.7769101161794361,0.7688949107727092,-0.06609029512172984,0.72844976239
 Dep. Variable:            fund_excess   R-squared:                       0.777
 Model:                            OLS   Adj. R-squared:                  0.769
 Method:                 Least Squares   F-statistic:                     91.67
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           3.10e-50
-Time:                        21:32:43   Log-Likelihood:                -345.76
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           3.10e-50
+Time:                        10:47:57   Log-Likelihood:                -345.76
 No. Observations:                 174   AIC:                             705.5
 Df Residuals:                     167   BIC:                             727.6
 Df Model:                           6                                         
@@ -1174,8 +1174,8 @@ USMV,167,0.8069291056268822,0.7996889470878903,-0.060886406745501706,0.746323108
 Dep. Variable:            fund_excess   R-squared:                       0.807
 Model:                            OLS   Adj. R-squared:                  0.800
 Method:                 Least Squares   F-statistic:                     86.34
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           1.31e-47
-Time:                        21:32:43   Log-Likelihood:                -297.10
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           1.31e-47
+Time:                        10:47:57   Log-Likelihood:                -297.10
 No. Observations:                 167   AIC:                             608.2
 Df Residuals:                     160   BIC:                             630.0
 Df Model:                           6                                         
@@ -1204,8 +1204,8 @@ MTUM,149,0.9054779138731359,0.9014840229100289,-0.05931385334612166,1.0645420794
 Dep. Variable:            fund_excess   R-squared:                       0.905
 Model:                            OLS   Adj. R-squared:                  0.901
 Method:                 Least Squares   F-statistic:                     305.1
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           1.64e-78
-Time:                        21:32:43   Log-Likelihood:                -258.49
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           1.64e-78
+Time:                        10:47:57   Log-Likelihood:                -258.49
 No. Observations:                 149   AIC:                             531.0
 Df Residuals:                     142   BIC:                             552.0
 Df Model:                           6                                         
@@ -1234,8 +1234,8 @@ VLUE,149,0.9341082671549678,0.9313241094291214,-0.16858844918148858,0.9769915522
 Dep. Variable:            fund_excess   R-squared:                       0.934
 Model:                            OLS   Adj. R-squared:                  0.931
 Method:                 Least Squares   F-statistic:                     355.7
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           6.59e-83
-Time:                        21:32:43   Log-Likelihood:                -242.85
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           6.59e-83
+Time:                        10:47:57   Log-Likelihood:                -242.85
 No. Observations:                 149   AIC:                             499.7
 Df Residuals:                     142   BIC:                             520.7
 Df Model:                           6                                         
@@ -1264,8 +1264,8 @@ SIZE,149,0.9492881084246977,0.9471453524426426,-0.12517396311021395,0.9653442422
 Dep. Variable:            fund_excess   R-squared:                       0.949
 Model:                            OLS   Adj. R-squared:                  0.947
 Method:                 Least Squares   F-statistic:                     457.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           3.27e-90
-Time:                        21:32:43   Log-Likelihood:                -213.19
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           3.27e-90
+Time:                        10:47:57   Log-Likelihood:                -213.19
 No. Observations:                 149   AIC:                             440.4
 Df Residuals:                     142   BIC:                             461.4
 Df Model:                           6                                         
@@ -1294,8 +1294,8 @@ QUAL,146,0.969306601472974,0.9679817065725268,-0.08248948519315166,0.97642072360
 Dep. Variable:            fund_excess   R-squared:                       0.969
 Model:                            OLS   Adj. R-squared:                  0.968
 Method:                 Least Squares   F-statistic:                     588.7
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           3.59e-96
-Time:                        21:32:43   Log-Likelihood:                -164.38
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           3.59e-96
+Time:                        10:47:57   Log-Likelihood:                -164.38
 No. Observations:                 146   AIC:                             342.8
 Df Residuals:                     139   BIC:                             363.6
 Df Model:                           6                                         
@@ -1324,8 +1324,8 @@ DGRO,135,0.9471220535999085,0.9446433998624042,-0.03375117690609549,0.8770854930
 Dep. Variable:            fund_excess   R-squared:                       0.947
 Model:                            OLS   Adj. R-squared:                  0.945
 Method:                 Least Squares   F-statistic:                     407.0
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           8.17e-81
-Time:                        21:32:43   Log-Likelihood:                -179.94
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           8.17e-81
+Time:                        10:47:57   Log-Likelihood:                -179.94
 No. Observations:                 135   AIC:                             373.9
 Df Residuals:                     128   BIC:                             394.2
 Df Model:                           6                                         
@@ -1354,8 +1354,8 @@ LRGF,125,0.9714725177806466,0.9700219678372897,-0.08337846001987866,0.9582720370
 Dep. Variable:            fund_excess   R-squared:                       0.971
 Model:                            OLS   Adj. R-squared:                  0.970
 Method:                 Least Squares   F-statistic:                     682.3
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           4.31e-89
-Time:                        21:32:43   Log-Likelihood:                -141.18
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           4.31e-89
+Time:                        10:47:57   Log-Likelihood:                -141.18
 No. Observations:                 125   AIC:                             296.4
 Df Residuals:                     118   BIC:                             316.2
 Df Model:                           6                                         
@@ -1384,8 +1384,8 @@ SMLF,125,0.9619509694551958,0.9600162729868159,-0.06158250481654622,0.9980993020
 Dep. Variable:            fund_excess   R-squared:                       0.962
 Model:                            OLS   Adj. R-squared:                  0.960
 Method:                 Least Squares   F-statistic:                     275.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           6.72e-67
-Time:                        21:32:43   Log-Likelihood:                -186.22
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           6.72e-67
+Time:                        10:47:57   Log-Likelihood:                -186.22
 No. Observations:                 125   AIC:                             386.4
 Df Residuals:                     118   BIC:                             406.2
 Df Model:                           6                                         
@@ -1414,8 +1414,8 @@ SMMV,108,0.8673322970457624,0.8594510473653126,-0.17459797295283574,0.6766391972
 Dep. Variable:            fund_excess   R-squared:                       0.867
 Model:                            OLS   Adj. R-squared:                  0.859
 Method:                 Least Squares   F-statistic:                     73.19
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           1.52e-34
-Time:                        21:32:43   Log-Likelihood:                -194.52
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           1.52e-34
+Time:                        10:47:57   Log-Likelihood:                -194.52
 No. Observations:                 108   AIC:                             403.0
 Df Residuals:                     101   BIC:                             421.8
 Df Model:                           6                                         
@@ -1444,8 +1444,8 @@ SMMD,98,0.982513561726182,0.9813606097520841,-0.1424057728069671,1.0109324279922
 Dep. Variable:            fund_excess   R-squared:                       0.983
 Model:                            OLS   Adj. R-squared:                  0.981
 Method:                 Least Squares   F-statistic:                     1566.
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           1.61e-89
-Time:                        21:32:43   Log-Likelihood:                -115.81
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           1.61e-89
+Time:                        10:47:57   Log-Likelihood:                -115.81
 No. Observations:                  98   AIC:                             245.6
 Df Residuals:                      91   BIC:                             263.7
 Df Model:                           6                                         
@@ -1474,8 +1474,8 @@ DIVB,94,0.963917372583931,0.9614289155207538,-0.044275462508788783,0.92328798058
 Dep. Variable:            fund_excess   R-squared:                       0.964
 Model:                            OLS   Adj. R-squared:                  0.961
 Method:                 Least Squares   F-statistic:                     613.2
-Date:                Sat, 29 Nov 2025   Prob (F-statistic):           6.33e-69
-Time:                        21:32:43   Log-Likelihood:                -127.70
+Date:                Sun, 30 Nov 2025   Prob (F-statistic):           6.33e-69
+Time:                        10:47:57   Log-Likelihood:                -127.70
 No. Observations:                  94   AIC:                             269.4
 Df Residuals:                      87   BIC:                             287.2
 Df Model:                           6                                         
