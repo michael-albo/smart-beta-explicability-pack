@@ -1,0 +1,51 @@
+Ticker,Name,Inception Date,Category,Factor_bucket,Notes
+IVV,iShares Core S&P 500 ETF,2000-05-15,Large Cap,Core,"S&P 500 low-cost, core US large caps."
+IWB,iShares Russell 1000 ETF,2000-05-15,Large/Mid Cap,Core,Russell 1000 broad US large+mid core exposure.
+IWF,iShares Russell 1000 Growth ETF,2000-05-22,Large/Mid Cap,Value-Growth,Russell 1000 growth sleeve (large+mid growth).
+IJH,iShares Core S&P Mid-Cap ETF,2000-05-22,Mid Cap,Size,Core S&P Mid-Cap exposure (US mid caps).
+IJR,iShares Core S&P Small-Cap ETF,2000-05-22,Small Cap,Size,Core S&P Small-Cap exposure (US small caps).
+IWM,iShares Russell 2000 ETF,2000-05-22,Small Cap,Size,Russell 2000 benchmark for US small caps.
+IWD,iShares Russell 1000 Value ETF,2000-05-22,Large/Mid Cap,Value-Growth,Russell 1000 value sleeve (large+mid value).
+IVW,iShares S&P 500 Growth ETF,2000-05-22,Large Cap,Value-Growth,S&P 500 growth sleeve (large-cap growth).
+IVE,iShares S&P 500 Value ETF,2000-05-22,Large Cap,Value-Growth,S&P 500 value sleeve (large-cap value).
+IWV,iShares Russell 3000 ETF,2000-05-22,All Cap,Core,Russell 3000 broad US equity market (total market).
+IUSG,iShares Core S&P U.S. Growth ETF,2000-07-24,All Cap,Value-Growth,Core US growth tilt across market caps (S&P U.S. Growth).
+IUSV,iShares Core S&P U.S. Value ETF,2000-07-24,All Cap,Value-Growth,Core US value tilt across market caps (S&P U.S. Value).
+IWO,iShares Russell 2000 Growth ETF,2000-07-24,Small Cap,Value-Growth,Russell 2000 growth sleeve (small-cap growth).
+IWN,iShares Russell 2000 Value ETF,2000-07-24,Small Cap,Value-Growth,Russell 2000 value sleeve (small-cap value).
+IJK,iShares S&P Mid-Cap 400 Growth ETF,2000-07-24,Mid Cap,Value-Growth,S&P Mid-Cap 400 growth sleeve.
+IJJ,iShares S&P Mid-Cap 400 Value ETF,2000-07-24,Mid Cap,Value-Growth,S&P Mid-Cap 400 value sleeve.
+IJS,iShares S&P Small-Cap 600 Value ETF,2000-07-24,Small Cap,Value-Growth,S&P Small-Cap 600 value sleeve.
+IJT,iShares S&P Small-Cap 600 Growth ETF,2000-07-24,Small Cap,Value-Growth,S&P Small-Cap 600 growth sleeve.
+OEF,iShares S&P 100 ETF,2000-10-23,Large Cap,Size,S&P 100 mega-cap US exposure (top large caps).
+IWR,iShares Russell Mid-Cap ETF,2001-07-17,Mid Cap,Size,Russell Mid-Cap benchmark for US mid caps.
+IWP,iShares Russell Mid-Cap Growth ETF,2001-07-17,Mid Cap,Value-Growth,Russell Mid-Cap growth sleeve.
+IWS,iShares Russell Mid-Cap Value ETF,2001-07-17,Mid Cap,Value-Growth,Russell Mid-Cap value sleeve.
+DVY,iShares Select Dividend ETF,2003-11-03,All Cap,Dividend,High dividend yield screen on US equities.
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,2004-01-20,All Cap,Core,Total US stock market core beta (S&P Total Market).
+IMCG,iShares Morningstar Mid-Cap Growth ETF,2004-06-28,Mid Cap,Value-Growth,Morningstar mid-cap growth exposure.
+ILCG,iShares Morningstar Growth ETF,2004-06-28,Large/Mid Cap,Value-Growth,Morningstar growth exposure (large+mid).
+IMCB,iShares Morningstar Mid-Cap ETF,2004-06-28,Mid Cap,Size,Morningstar mid-cap core exposure.
+ILCB,iShares Morningstar U.S. Equity ETF,2004-06-28,Large/Mid Cap,Core,Morningstar US equity core exposure (large+mid).
+ILCV,iShares Morningstar Value ETF,2004-06-28,Large/Mid Cap,Value-Growth,Morningstar value exposure (large+mid).
+IMCV,iShares Morningstar Mid-Cap Value ETF,2004-06-28,Mid Cap,Value-Growth,Morningstar mid-cap value exposure.
+ISCG,iShares Morningstar Small-Cap Growth ETF,2004-06-28,Small Cap,Value-Growth,Morningstar small-cap growth exposure.
+ISCV,iShares Morningstar Small-Cap Value ETF,2004-06-28,Small Cap,Value-Growth,Morningstar small-cap value exposure.
+ISCB,iShares Morningstar Small-Cap ETF,2004-06-28,Small Cap,Size,Morningstar small-cap core exposure.
+IWC,iShares Micro-Cap ETF,2005-08-12,Small Cap,Size,Micro-cap US exposure (smallest public companies).
+IWY,iShares Russell Top 200 Growth ETF,2009-09-22,Large Cap,Value-Growth,Russell Top 200 growth sleeve (mega-cap growth).
+IWX,iShares Russell Top 200 Value ETF,2009-09-22,Large Cap,Value-Growth,Russell Top 200 value sleeve (mega-cap value).
+IWL,iShares Russell Top 200 ETF,2009-09-22,Large Cap,Size,Russell Top 200 mega-cap core exposure.
+EUSA,iShares MSCI USA Equal Weighted ETF,2010-05-05,Large/Mid Cap,Core,Equal-weighted US large+mid exposure (less mega-cap concentration).
+HDV,iShares Core High Dividend ETF,2011-03-29,All Cap,Dividend,High dividend quality screen; concentrated income tilt.
+USMV,iShares MSCI USA Min Vol Factor ETF,2011-10-18,Large/Mid Cap,Low Vol,Minimum volatility factor on US equities (defensive tilt).
+MTUM,iShares MSCI USA Momentum Factor ETF,2013-04-16,Large/Mid Cap,Momentum,Momentum factor on US equities (rules-based).
+VLUE,iShares MSCI USA Value Factor ETF,2013-04-16,Large/Mid Cap,Value-Growth,Value factor on US equities (rules-based).
+SIZE,iShares MSCI USA Size Factor ETF,2013-04-16,Large/Mid Cap,Size,Size factor on US equities (tilt to smaller names).
+QUAL,iShares MSCI USA Quality Factor ETF,2013-07-16,Large/Mid Cap,Quality,Quality factor on US equities (profitability & stability).
+DGRO,iShares Core Dividend Growth ETF,2014-06-10,All Cap,Dividend,Dividend growth focus; quality/income blend.
+LRGF,iShares U.S. Equity Factor ETF,2015-04-28,Large/Mid Cap,Core,Broad US multifactor tilt (value/quality/momentum/low vol).
+SMLF,iShares U.S. Small-Cap Equity Factor ETF,2015-04-28,Small Cap,Size,Small-cap multifactor tilt (value/quality/momentum/size).
+SMMV,iShares MSCI USA Small-Cap Min Vol Factor ETF,2016-09-07,Small Cap,Low Vol,Small-cap minimum volatility factor.
+SMMD,iShares Russell 2500 ETF,2017-07-06,Mid/Small Cap,Size,Russell 2500 mid+small core exposure.
+DIVB,iShares Core Dividend ETF,2017-11-07,All Cap,Dividend,Core dividend exposure across US equities (broad income).
