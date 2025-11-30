@@ -6,3 +6,4 @@ statsmodels>=0.14.4      # pip install statsmodels
 yfinance>=0.2.66         # pip install yfinance
 matplotlib>=3.10.7       # pip install matplotlib
 fredapi>=0.5.2           # pip install fredapi
+seaborn>=0.13.2          # pip install seaborn
